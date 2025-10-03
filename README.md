@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeet7965!
+# 👋 Hi, I'm Sarvajeet Chauhan!
 
 Welcome to my GitHub profile!  
 I'm an **MCA graduate** and an aspiring **Full Stack Developer & Data Analyst** passionate about creating robust, scalable web applications and insightful data solutions. As a fresher, I love learning new technologies and tackling challenging problems.
